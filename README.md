@@ -27,4 +27,4 @@ Training existing staff
 Increasing productivity per sales rep
 a
 Final Insight
-The business problem is not lack of staff, but inefficient revenue generation. Fix performance first befor
+The business problem is not lack of staff, but inefficient revenue generation. Fix performance first before expansion
